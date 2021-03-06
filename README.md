@@ -8,6 +8,6 @@ Its a simple login & register system build from scratch with Nodejs.
  - Forgot password handling
  - Emails ( via Nodemailer )
 #### Stack Info
-Front End : HTML, CSS, Bootstrap
-Back End : NodeJS , ExpressJS
+Front End : HTML, CSS, Bootstrap  
+Back End : NodeJS , ExpressJS  
 Database : MongoDB
