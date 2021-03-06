@@ -1,4 +1,13 @@
-# [Authentication in NodeJS](https://rj-node-auth.herokuapp.com/) 
-## Its a simple login & registration app.
-## Frontend : Bootstrap
-## Backend : Nodejs, express, express-session, connect-mongodb-session
+# [NodeJS Authentication](https://rj-node-auth.herokuapp.com/)
+Its a simple login & register system build from scratch with Nodejs.
+
+#### Notabe features 
+
+ - Glassy UI ( with Glassomorphism)
+ - Password hashing and encryption (with bcrypt library)
+ - Forgot password handling
+ - Emails ( via Nodemailer )
+#### Stack Info
+Front End : HTML, CSS, Bootstrap
+Back End : NodeJS , ExpressJS
+Database : MongoDB
